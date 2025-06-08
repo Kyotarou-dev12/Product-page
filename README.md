@@ -6,6 +6,16 @@
 
 # Descrição
 
-Página de produto estilo e-commerce desenvolvida com HTML e CSS puros, inspirada em sites reais. Inclui galeria de imagens, descrição detalhada, botão de compra e responsividade completa.
-Tecnologias: HTML5, CSS3
-Responsivo: Sim
+Uma página de produto de e-commerce desenvolvida com HTML e CSS puros, com foco em responsividade, organização e visual limpo. Ideal para prática de estrutura de layout realista.
+
+Recursos incluídos:
+
+🖼️ Imagem principal do produto com destaque
+
+📱 Layout responsivo com media queries
+
+💡 Estilo moderno e claro, com boa hierarquia visual
+
+🧱 Estrutura semântica e organizada em seções
+
+🔗 Links e botões com aparência profissional
